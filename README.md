@@ -8,10 +8,12 @@ You should make clone of repository on your local machine. You can use this comm
     $git clone https://github.com/kwiats/mp42gif mp42gif
 
 Then, user should download new version of libraries for python:
-
-    $pip install opencv-python
     
     $pip install Pillow
+
+and 
+
+    $pip install opencv-python
     
 Library opencv-python allow users to convert mp4 to jpgs. However, Pillow allow users to conver jpgs to gif.
 
