@@ -14,12 +14,15 @@ Then, user should download new version of libraries for python:
 and 
 
     $pip install opencv-python
-    
+
 Library opencv-python allow users to convert mp4 to jpgs. However, Pillow allow users to conver jpgs to gif.
 
 If you want launch application, use this command:
 
     $python main.py <name_of_video_file.mp4>
 
+### Demo
+
+![](https://github.com/kwiats/mp42gif/blob/master/images/gif.gif)
 
 ### Enjoy! <3
