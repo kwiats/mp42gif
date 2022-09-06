@@ -1,9 +1,11 @@
 import cv2
+from PIL import Image
+
 import glob
 import sys
 import os
 
-from PIL import Image
+
 
 
 def convert_mp4_to_jpgs(path):
