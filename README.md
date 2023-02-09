@@ -3,6 +3,7 @@ Application which enable users to convert own video file to gif. User should cop
 
 ### Installing
 
+
 You should make clone of repository on your local machine. You can use this command in your terminal:
 
     $git clone https://github.com/kwiats/mp42gif mp42gif
